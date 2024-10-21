@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif; /* Définit la police de caractères pour le corps de la page */
+    background-color: #0d110a	; /* Couleur de fond de la page */
+    margin: 0; /* Supprime les marges par défaut */
+    padding: 20px; /* Ajoute un espacement intérieur */
+}
+
+header {
+    background-color: #8a2be2; /* Couleur de fond de l'en-tête */
+    color: white; /* Couleur du texte de l'en-tête */
+    padding: 10px 0; /* Espacement intérieur en haut et en bas */
+    text-align: center; /* Centre le texte */
+}
+
+main {
+    margin-top: 20px; /* Espace au-dessus de la section principale */
+}
+
+h1, h2 {
+    color: #00ffff; /* Couleur des titres */
+}
